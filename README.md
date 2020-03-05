@@ -1,4 +1,4 @@
-# Labs-Sprint-Challenge-2.1-
+# Labs-Sprint-Challenge-2.1- Follow design pattern and architectural guidelines
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them by providing answers to questions related to following architectural and design decisions of your Labs product.
 
