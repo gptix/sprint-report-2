@@ -55,6 +55,6 @@ Please submit a link to your journal entry for this sprint, in the Sprint Retros
 
 ## Rubric & Samples
 
-[Here is a link to the rubric]() that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
+[Here is a link to the rubric](https://www.notion.so/lambdaschool/2-1-Rubric-Follow-design-pattern-and-architectural-guidelines-9223a4fd514f4499bef64b9bdb255e85) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
 
-[Here is a link to a sample submission]() that you can use for inspiration.
+[Here is a link to a sample submission](https://www.notion.so/lambdaschool/2-1-Contribution-Entry-Following-Design-Patterns-and-Architectural-Guidelines-99948cbf411643b1bce58568785e87a4) that you can use for inspiration.
